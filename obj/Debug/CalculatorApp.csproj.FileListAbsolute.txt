@@ -1,0 +1,12 @@
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.FormCalculator.resources
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.FormHasil.resources
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Amikom\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\obj\Debug\CalculatorApp.pdb
